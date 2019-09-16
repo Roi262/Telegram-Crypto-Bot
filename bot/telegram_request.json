@@ -1,0 +1,28 @@
+{
+    "update_id": 458880399,
+    "message": {
+        "message_id": 25,
+        "from": {
+            "id": 186945974,
+            "is_bot": false,
+            "first_name": "Roi",
+            "last_name": "Aharonson",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 186945974,
+            "first_name": "Roi",
+            "last_name": "Aharonson",
+            "type": "private"
+        },
+        "date": 1568558270,
+        "text": "/eth",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
